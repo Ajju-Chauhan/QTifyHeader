@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  background-color: #34C94B;
+  align-items: center;
+  height: 74px;
+  width: 100vw;
+
+}
+.textbox {
+  width: 568px;
+  height: 48px;
+  top :13px;
+  left: 436px;
+  border-radius: 8px;
+  border: 1px;
+  font-size: "60px";
+
+}
+.logo {
+  font-size: x-large;
+}
